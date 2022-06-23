@@ -1,1 +1,5 @@
-# monai_transforms_tutorial
+Please download the testing data from http://medicaldecathlon.com/
+
+
+
+
